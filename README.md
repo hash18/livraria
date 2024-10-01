@@ -13,12 +13,6 @@ Certifique-se que você possui instalado:
 - Netbeans
 - Postman
 ```
-    
-## Diagrama do Projeto
-
-<p align="center">
-    <img src="src/main/resources/assets/diagrama-uml-livraria.png">
-</p>
 
 ## Algumas Funcionalidades da API
 
