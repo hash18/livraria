@@ -10,9 +10,8 @@ Certifique-se que você possui instalado:
 ```
 - Java e JDK
 - Maven
-- Intellij, Eclipse ou VScode
-- Postman ou Insomnia
-OBS: Se estiver pelo VScode, instale a extensão do Spring Boot
+- Netbeans
+- Postman
 ```
     
 ## Diagrama do Projeto
